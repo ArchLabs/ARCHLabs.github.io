@@ -1,12 +1,24 @@
-### Change log
+### Change Log
 
 ---
+
+###### 2019.01.11
+
+- baph, the ArchLabs in-house AUR helper has had an update with a search function `baph -s <package_name>`
+
+- [Polybar](https://github.com/jaagr/polybar) has been upgraded to the latest version, 3.3.0
+
+- xdg-user-dirs has been added back
+
+- various installer bugfixes and changes
+
+- the kernel has been also updated 4.20
 
 ###### 2018.12.17
 
 - archlabs-installer has gone from version 1.6.19 to 1.8.1 with well over 100 commits since
 
-- no graphical live environment, you're dropped into the console and go from there
+- no graphical live environment, you’re dropped into the console and go from there
 
 - `aurman` has been removed and replaced with `baph`, a more minimal and simple AUR helper
 
