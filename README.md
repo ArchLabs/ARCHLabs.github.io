@@ -14,6 +14,8 @@
 
 - the kernel has been also updated 4.20
 
+---
+
 ###### 2018.12.17
 
 - archlabs-installer has gone from version 1.6.19 to 1.8.1 with well over 100 commits since
