@@ -12,7 +12,7 @@
 
 - various installer bugfixes and changes
 
-- the kernel has been also updated 4.20
+- the kernel has been also updated to version 4.20
 
 ---
 
