@@ -2,17 +2,15 @@
 
 ---
 
-###### 2019.01.11
+###### 2019.01.14
 
-- baph, the ArchLabs in-house AUR helper has had an update with a search function `baph -s <package_name>`
+- `archlabs-scripts` version update
 
-- [Polybar](https://github.com/jaagr/polybar) has been upgraded to the latest version, 3.3.0
+- `archlabs-polybar` has been upgraded to the latest [release](https://github.com/jaagr/polybar/releases)
 
-- xdg-user-dirs has been added back
+- `xdg-user-dirs` is now installed for WM during install
 
-- various installer bugfixes and changes
-
-- the kernel has been also updated to version 4.20
+- `archlabs-installer` version update with bug fixes and improvements
 
 ---
 
