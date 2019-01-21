@@ -2,7 +2,7 @@
 
 ---
 
-###### 2019.01.14
+###### 2019.01.20
 
 - `archlabs-scripts` version update
 
