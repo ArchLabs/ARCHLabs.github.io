@@ -7,6 +7,8 @@
 
 	- the installer won't gobble stderr when redirecting it for error handling
 
+	- live session setup flag + more *(see --help)*
+
 	- live session now available.  instructions are available when you boot the iso.
 
 	- jwm has been added as option to the wm/de install.
@@ -86,13 +88,3 @@
 
 ---
 
-
-
- 
- - installer upgrade to version 2.1
-  - jwm added
-  - more applications
-  - user command entry
-  - overhauled UI
-  - live session setup flag + more *(see --help)*
-  - general improvements and bug fixes
