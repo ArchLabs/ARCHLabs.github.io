@@ -1,7 +1,7 @@
 ### RELEASE NOTES
 ---
 
-###### 2019.10.29
+###### 2019.10.28
 
 - `archlabs-installer` has been updated to version `2.1`.
 
