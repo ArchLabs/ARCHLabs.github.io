@@ -3,21 +3,26 @@
 
 ###### 2019.10.29
 
-- `archlabs-installer` has had a massive update, now version `2.1`.
+- `archlabs-installer` has been updated to version `2.1`.
 
-- Live Session now available.  Instructions are available when you boot the ISO.
+	- the installer won't gobble stderr when redirecting it for error handling
 
-- awesomewm and jwm have been added as options for install.
+	- live session now available.  instructions are available when you boot the iso.
 
-- Updated wallpaper, a slice of home for Dobbie.  Original wallpaper found [here](https://unsplash.com/photos/RxBA85tbj-c).
+	- jwm has been added as option to the wm/de install.
 
-- Updated themes.  Original theme by [lassekongo83](https://www.deviantart.com/lassekongo83/art/Stilo-themes-796881403) from Deviant Art.
+- updated wallpaper, a slice of home for dobbie.  original wallpaper found [here](https://unsplash.com/photos/RxBA85tbj-c).
 
-- `Tint2` has replaced `Polybar` as the default panel, with jgmenu as the application launcher.
+- overhauled UI by the way of updated themes.  original theme by [lassekongo83](https://www.deviantart.com/lassekongo83/art/Stilo-themes-796881403) from deviantart.
 
-- `baph` our in house `AUR` helper is now its own package.
+- `tint2` has replaced `polybar` as the default panel in the openbox and bspwm sessions. jgmenu is the tint2 application launcher. i3wm and dwm use their respective default status bars
 
-- Custom wallpapers from the community can be downloaded [here](https://bitbucket.org/archlabslinux/custom-al-wallpapers/src/master/)
+- `baph` our in house `aur` helper is now its own package.
+
+- custom wallpapers from the community can be downloaded [here](https://bitbucket.org/archlabslinux/custom-al-wallpapers/src/master/)
+
+- general improvements and bug fixes
+
 
 ---
 
@@ -73,3 +78,13 @@
 
 ---
 
+
+
+ 
+ - installer upgrade to version 2.1
+  - jwm added
+  - more applications
+  - user command entry
+  - overhauled UI
+  - live session setup flag + more *(see --help)*
+  - general improvements and bug fixes
