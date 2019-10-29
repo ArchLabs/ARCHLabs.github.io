@@ -11,15 +11,23 @@
 
 	- jwm has been added as option to the wm/de install.
 
-- updated wallpaper, a slice of home for dobbie.  original wallpaper found [here](https://unsplash.com/photos/RxBA85tbj-c).
+- updated wallpaper, a slice of home for dobbie.  
 
-- overhauled UI by the way of updated themes.  original theme by [lassekongo83](https://www.deviantart.com/lassekongo83/art/Stilo-themes-796881403) from deviantart.
+	- original wallpaper found [here](https://unsplash.com/photos/RxBA85tbj-c).
 
-- `tint2` has replaced `polybar` as the default panel in the openbox and bspwm sessions. jgmenu is the tint2 application launcher. i3wm and dwm use their respective default status bars
+	- custom wallpapers from the community can be downloaded [here](https://bitbucket.org/archlabslinux/custom-al-wallpapers/src/master/)
+
+- overhauled UI by the way of updated themes.  
+
+	- original theme by [lassekongo83](https://www.deviantart.com/lassekongo83/art/Stilo-themes-796881403) from deviantart.
+
+- `tint2` has replaced `polybar` as the default panel in the openbox and bspwm sessions. 
+
+	- jgmenu is the tint2 application launcher. 
+
+	- i3wm and dwm use their respective default status bars
 
 - `baph` our in house `aur` helper is now its own package.
-
-- custom wallpapers from the community can be downloaded [here](https://bitbucket.org/archlabslinux/custom-al-wallpapers/src/master/)
 
 - general improvements and bug fixes
 
