@@ -18,7 +18,7 @@
 
 - Updates to `baph` our AUR helper. `man baph` for details on how to use `baph`.
 
-- Adwaita-Dark is now the default GTK theme.
+- Adwaita-Dark is now the default GTK theme where applicable.
 
 - LXQT added to the list of install options.
 
