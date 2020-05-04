@@ -4,7 +4,7 @@
 
 - ArchLabs release, 2020.05.04 is available for [download](https://sourceforge.net/projects/archlabs-linux-minimo/).
 
-- `archlabs-installer` has had some updates and improvements.  Now at version 2.1.44.
+- `archlabs-installer` has had some updates and improvements.  Now at version `2.1.44`.
 
   - The installer now optionally uses Pacstrap to install packages.
 
