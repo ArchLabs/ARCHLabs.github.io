@@ -1,5 +1,16 @@
 ### RELEASE NOTES
 ---
+###### 2020.11.04
+
+- Archlabs Release, 2020.11.04 is available for [download(https://sourceforge.net/projects/archlabs-linux-minimo/).
+
+- Usual updates to the `archlabs-installer` and minor changes.
+
+- The `archlabs-installer` has been moved directly to the ISO rather than be supplied as an extra package.
+
+- First ArchLabs release built with the new Archiso build process.
+
+---
 ###### 2020.05.04
 
 - ArchLabs release, 2020.05.04 is available for [download](https://sourceforge.net/projects/archlabs-linux-minimo/).
