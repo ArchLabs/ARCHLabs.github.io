@@ -2,9 +2,11 @@
 ---
 ###### 2021.05.02
 
-- ArchLabs Release, 2021.05.02 is available for [download](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2021.05.02-x86_64.iso/download)
+- ArchLabs Release, 2021.05.02 is available for [download](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2021.05.02-x86_64.iso/download).
 
 - No major changes.
+
+- Nate's tiling window manager, dk is available from the [AUR](https://aur.archlinux.org/packages/dk/)
 
 ---
 
