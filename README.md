@@ -1,5 +1,13 @@
 ### RELEASE NOTES
 ---
+###### 2021.05.02
+
+- ArchLabs Release, 2021.05.02 is available for download
+
+- No major changes.
+
+---
+
 ###### 2020.11.04
 
 - Archlabs Release, 2020.11.04 is available for [download(https://sourceforge.net/projects/archlabs-linux-minimo/).
