@@ -2,13 +2,13 @@
 ---
 ###### 2022.01.19
 
-- ArchLabs Release, 2022.01.18 is available for [download}().
+- ArchLabs Release, 2022.01.18 is available for [download](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.01.18-x86_64.iso/download).
 
 - The addition of dk and Sway window managers.
 
 - Tweak and tidy up of XFCE4 session.
 
-- New default wallpaper based on this [original}(https://unsplash.com/photos/OzD_vkpMM5Y) by Jack Zhong.
+- New default wallpaper based on this [original](https://unsplash.com/photos/OzD_vkpMM5Y) by Jack Zhong.
 
 - Updated the ArchLabs repository.
 
