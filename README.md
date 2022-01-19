@@ -1,5 +1,23 @@
 ### RELEASE NOTES
 ---
+###### 2022.01.19
+
+- ArchLabs Release, 2022.01.18 is available for [download}().
+
+- The addition of dk and Sway window managers.
+
+- Tweak and tidy up of XFCE4 session.
+
+- New default wallpaper based on this [original}(https://unsplash.com/photos/OzD_vkpMM5Y) by Jack Zhong.
+
+- Updated the ArchLabs repository.
+
+- Updated Rofi theme.
+
+- ArchLabs AUR helper BAPH has had an update - version 1.5 brings a new check update flag and other minor improvements.
+
+
+---
 ###### 2021.05.02
 
 - ArchLabs Release, 2021.05.02 is available for [download](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2021.05.02-x86_64.iso/download).
@@ -12,7 +30,7 @@
 
 ###### 2020.11.04
 
-- Archlabs Release, 2020.11.04 is available for [download(https://sourceforge.net/projects/archlabs-linux-minimo/).
+- Archlabs Release, 2020.11.04 is available for [download](https://sourceforge.net/projects/archlabs-linux-minimo/).
 
 - Usual updates to the `archlabs-installer` and minor changes.
 
