@@ -1,5 +1,24 @@
 ### RELEASE NOTES
 ---
+###### 2022.02.12
+- ArchLabs Release, 2022.02.12 is available for [download](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.01.18-x86_64.iso/download).
+
+- Update to the Sway session:
+
+	- New notification panel.
+
+	- Tweaks to the nwg-shell.
+
+- The installer has been updated.
+
+- Introduction of an LTS Kernel ISO.
+
+- General fixes and tweaks.
+
+- Baph has been updated to version 1.6.
+
+
+---
 ###### 2022.01.19
 
 - ArchLabs Release, 2022.01.18 is available for [download](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.01.18-x86_64.iso/download).
