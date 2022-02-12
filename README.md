@@ -1,7 +1,7 @@
 ### RELEASE NOTES
 ---
 ###### 2022.02.12
-- ArchLabs Release, 2022.02.12 is available for [download](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.01.18-x86_64.iso/download).
+- ArchLabs Release, 2022.02.12 is available for download [LTS Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-lts-2022.02.12-x86_64.iso/download) [Vanilla Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.02.12-x86_64.iso/download).
 
 - Update to the Sway session:
 
