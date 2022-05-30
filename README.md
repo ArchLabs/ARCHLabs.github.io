@@ -1,5 +1,22 @@
 ### RELEASE NOTES
 ---
+###### 2022.05.29
+- ArchLabs Release, 2022.05.29 is available for download [LTS Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-lts-2022.05.29-x86_64.iso/download) - [Vanilla Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.05.29-x86_64.iso/download).
+
+- Update to the Sway session:
+	
+	- sway session comes with nwg-shell 0.2
+
+	- Now includes it's own tools to manage outputs (nwg-displays instead of wdisplays) and GTK settings (nwg-look instead of lxappearance).
+
+- Minor tweaks and fixes to the installer
+
+- Fixed volumeicon tray application mixer button
+
+- Fixed broken obkey package after recent removal of python2 packages from Arch [community] repo
+
+
+---
 ###### 2022.02.12
 - ArchLabs Release, 2022.02.12 is available for download [LTS Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-lts-2022.02.12-x86_64.iso/download) - [Vanilla Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.02.12-x86_64.iso/download).
 
