@@ -33,7 +33,7 @@
 
 - Added gpg signed checksum files for ISOs, use `gpg --verify` and `sha256sum -c` to confirm the ISO checksum. 
 
-- Credit to [Tobias Keller}(https://unsplash.com/photos/73F4pKoUkM0) for the original wallpaper.
+- Credit to [Tobias Keller](https://unsplash.com/photos/73F4pKoUkM0) for the original wallpaper.
 
 ---
 ###### 2022.05.29
