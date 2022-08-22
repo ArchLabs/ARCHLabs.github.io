@@ -9,13 +9,13 @@
 
 - General updates - latest archiso, kernel, firmware, etc.
 
-- Replace exo-open with scripts for default applications (terminal, browser, and file manager).
+- Replace `exo-open` with scripts for default applications (terminal, browser, and file manager).
 
 - Remove ksuperkey and the whole XFCE suite in favour of lxappearance.
 
-- Update openbox pipemenu scripts and remove old unused ones.
+- Update Openbox pipemenu scripts and remove old unused ones.
 
-- Update kickshaw (openbox menu editor) to be inline with upstream.
+- Update kickshaw (openbox menu editor) to be in line with upstream.
 
 - Update `dk` session lemonbar script with better DPI support and more info.
 
@@ -27,9 +27,9 @@
 
 - Remove refind (bootloader), sddm, and gdm (display managers).
 
-- Remove -t flag. AMD and Intel will have TearFree xorg configs setup by default.
+- Remove `-t` flag. AMD and Intel will have TearFree xorg configs setup by default.
 
-- Remove nvidia-installer for nvidia driver setup during install.
+- Remove `nvidia-installer` for nvidia driver setup during install.
 
 - Added gpg signed checksum files for ISOs, use `gpg --verify` and `sha256sum -c` to confirm the ISO checksum. 
 
