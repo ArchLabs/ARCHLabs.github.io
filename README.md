@@ -1,7 +1,7 @@
 ### RELEASE NOTES
 ---
 ###### 2022.08.21
-- ArchLabs Release, 2022.05.29 is available for download [LTS Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.08.21-x86_64.iso/download) - [Vanilla Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-lts-2022.08.21-x86_64.iso/download).
+- ArchLabs Release, 2022.05.29 is available for download [LTS Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-lts-2022.08.21-x86_64.iso/download) - [Vanilla Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.08.21-x86_64.iso/download).
 
 - Added basic live session for dk.
 
