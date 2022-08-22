@@ -1,5 +1,39 @@
 ### RELEASE NOTES
 ---
+###### 2022.08.21
+- ArchLabs Release, 2022.05.29 is available for download [LTS Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.08.21-x86_64.iso/download) - [Vanilla Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-lts-2022.08.21-x86_64.iso/download).
+
+- Added basic live session for dk.
+
+- Update session skeleton configs.
+
+- General updates - latest archiso, kernel, firmware, etc.
+
+- Replace exo-open with scripts for default applications (terminal, browser, and file manager).
+
+- Remove ksuperkey and the whole XFCE suite in favour of lxappearance.
+
+- Update openbox pipemenu scripts and remove old unused ones.
+
+- Update kickshaw (openbox menu editor) to be inline with upstream.
+
+- Update dk session lemonbar script with better DPI support and more info.
+
+- Simplify and merge some menus/descriptions.
+
+- General clean up and remove dead/unused packages.
+
+- Reduce number of sessions to dk, openbox, i3-gaps, bspwm, and fluxbox.
+
+- Remove refind (bootloader), sddm, and gdm (display managers).
+
+- Remove -t flag. AMD and Intel will have TearFree xorg configs setup by default.
+
+- Remove nvidia-installer for nvidia driver setup during install.
+
+- Added gpg signed checksum files for ISOs, use gpg --verify and sha256sum -c to confirm the ISO checksum. 
+
+---
 ###### 2022.05.29
 - ArchLabs Release, 2022.05.29 is available for download [LTS Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-lts-2022.05.29-x86_64.iso/download) - [Vanilla Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.05.29-x86_64.iso/download).
 
