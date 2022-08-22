@@ -33,6 +33,8 @@
 
 - Added gpg signed checksum files for ISOs, use `gpg --verify` and `sha256sum -c` to confirm the ISO checksum. 
 
+- Credit to [Tobias Keller}(https://unsplash.com/photos/73F4pKoUkM0) for the original wallpaper.
+
 ---
 ###### 2022.05.29
 - ArchLabs Release, 2022.05.29 is available for download [LTS Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-lts-2022.05.29-x86_64.iso/download) - [Vanilla Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.05.29-x86_64.iso/download).
