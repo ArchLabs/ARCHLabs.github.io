@@ -1,5 +1,19 @@
 ### RELEASE NOTES
 ---
+###### 2023.01.20
+- ArchLabs Release, 2023.01.20 is available for download from the [ArchLabs Get page](https://archlabslinux.com/get/)
+
+- dwm has been added back as an option to install.  Some minor patches have been included.
+
+- The Live Session no longer loads as the default.  There is an option to run the Live Session if you wish.
+
+- Tweaks and improvements to the Live Session.
+
+- A new default wallpaper thanks to our own [Will Elliot](https://unsplash.com/photos/9AO2qdsq1mw).
+
+- The usual installer fixes and package updates.
+
+----
 ###### 2022.10.16
 - ArchLabs Release, 2022.10.15 is available for download [LTS Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-lts-2022.10.15-x86_64.iso/download) - [Vanilla Kernel](https://sourceforge.net/projects/archlabs-linux-minimo/files/ArchLabsMinimo/archlabs-2022.10.15-x86_64.iso/download).
 
