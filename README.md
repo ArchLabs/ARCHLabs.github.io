@@ -1,7 +1,13 @@
 ### RELEASE NOTES
 ---
+###### 2023.02.05
+- ArchLabs Release, 2023.01.20 is available for download from the [ArchLabs Get page](https://archlabslinux.com/get/).
+
+- A change to fix an issues with BIOS.
+
+---
 ###### 2023.01.20
-- ArchLabs Release, 2023.01.20 is available for download from the [ArchLabs Get page](https://archlabslinux.com/get/)
+- ArchLabs Release, 2023.01.20 is available for download from the [ArchLabs Get page](https://archlabslinux.com/get/).
 
 - dwm has been added back as an option to install.  Some minor patches have been included.
 
