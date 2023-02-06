@@ -3,7 +3,7 @@
 ###### 2023.02.05
 - ArchLabs Release, 2023.01.20 is available for download from the [ArchLabs Get page](https://archlabslinux.com/get/).
 
-- A change to fix an issues with BIOS.
+- A change to fix an issue with BIOS.
 
 ---
 ###### 2023.01.20
