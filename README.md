@@ -6,6 +6,8 @@
 
 - Thank you all for your support and love over the years.
 
+- The community has wanted to stay together so join us at either our ArchLabs & Friends [Discord](https://discord.gg/9dk4Jdvc) or [Matrix](https://matrix.to/#/#archlabs&friends:matrix.org)
+
 - Signing Off - The ArchLabs Team.
 
 - R.I.P. ArchLabs Linux.
