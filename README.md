@@ -1,4 +1,15 @@
+
 ### RELEASE NOTES
+---
+###### 2023.06.07 - This Is The End
+- Final release of ArchLabs.
+
+- Thank you all for your support and love over the years.
+
+- Signing Off - The ArchLabs Team.
+
+- R.I.P. ArchLabs Linux.
+
 ---
 ###### 2023.02.05
 - ArchLabs Release, 2023.01.20 is available for download from the [ArchLabs Get page](https://archlabslinux.com/get/).
